@@ -1,0 +1,7 @@
+.php-cs-fixer.cache
+.phpunit.result.cache
+clover.xml
+
+.phpunit.cache/
+.idea/
+vendor/
